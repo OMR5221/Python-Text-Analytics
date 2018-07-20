@@ -1,0 +1,7 @@
+*.pyc
+*.h
+.idea/
+.ipynb_checkpints/
+venv/
+*.h
+*.h
